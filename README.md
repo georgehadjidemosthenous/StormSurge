@@ -1,1 +1,1 @@
-calculates water elevation due to wind shear usingn dean & dalrymple 1991.
+Python application that calculates water elevation due to wind shear usingn dean & dalrymple 1991.
