@@ -8,10 +8,6 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 import os
 
 
-
-#fix read
-#cleanup
-
 class StormSurge:
     
     def __init__(self):
